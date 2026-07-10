@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Nirmala Jyothi
 
-<!--
-**kakumanunirmalajyothi/kakumanunirmalajyothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Electronics and Communication Engineering (ECE) student.
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Embedded Systems
+- Embedded C Programming
+- Firmware Development
+- Data Structures
+- Microcontrollers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- PIC18F4580 Microcontroller
+- Embedded Software Development
+- RTOS Basics
+
+🛠️ Technologies & Tools:
+- C
+- Data Structures
+- Git & GitHub
+- Linux (Ubuntu/WSL)
+- GCC
+- VS Code
+
+📂 Featured Projects:
+- 📒 Address Book Management System
+- 🎵 MP3 Tag Reader
+- 🔒 Steganography
+- 🔍 Inverted Search
+- 🧮 Arbitrary Precision Calculator
+- 📝 Lexical Analyzer
+
+📫 Connect with me:
+- GitHub: https://github.com/kakumanunirmalajyothi
+- LinkedIn: www.linkedin.com/in/nirmalajyothi
+
+⭐ Always eager to learn, build, and contribute to innovative embedded software solutions.
