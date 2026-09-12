@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nirmala Jyothi
 
-🎓 Final-year Electronics and Communication Engineering (ECE) student.
+🎓 Graduated in Electronics and Communication Engineering (ECE) stream.
 
 💻 Passionate about:
 - Embedded Systems
