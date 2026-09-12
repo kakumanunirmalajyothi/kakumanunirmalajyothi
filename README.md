@@ -16,6 +16,7 @@
 
 🛠️ Technologies & Tools:
 - C
+- C++
 - Data Structures
 - Git & GitHub
 - Linux (Ubuntu/WSL)
@@ -29,6 +30,8 @@
 - 🔍 Inverted Search
 - 🧮 Arbitrary Precision Calculator
 - 📝 Lexical Analyzer
+- 🌳 Red Black Tree
+- 🚗 CAN Based Automotive Car Dashboard
 
 📫 Connect with me:
 - GitHub: https://github.com/kakumanunirmalajyothi
